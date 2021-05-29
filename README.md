@@ -13,7 +13,7 @@ The maximum is 6 people, after that the cpu usage is too high.
 3. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
 4. Hurray! That's it.
 
-#### ToDo
+### ToDo
 
 - [x] Chat
 - [x] Group call  
