@@ -15,9 +15,13 @@ The maximum is 6 people, after that the cpu usage is too high.
 
 ### ToDo
 
-- [x] Chat
+### In Progress
+
+- [ ] Recreate the Front-end with React  
+
+### Done ✓
+
+- [x] Chat  
 - [x] Group call  
 - [x] Screen Share  
-
-- [ ] - Recreate the Front-end with React.
 
