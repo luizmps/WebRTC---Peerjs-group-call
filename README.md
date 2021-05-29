@@ -3,10 +3,10 @@ WebRTC-Peerjs-group-call is a video group chat app that makes it easy to groups 
 
 ![IMG](./image.png)
 
-## Max People
+# Max People
 The maximum is 6 people, after that the cpu usage is too high.
 
-### How to run the project?
+## How to run the project?
 
 1. Clone this repository in your local system.
 2. Open the command prompt from your project directory and run the command `npm start` or if you have yarn on machine `yarn start`.
